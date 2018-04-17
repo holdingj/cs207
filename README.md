@@ -6,3 +6,5 @@ The general method to do this will be to charge a capacitor to a known voltage a
 
 
 It may be possible to extend this circuit to measure leakage and ESR but this will be out of the scope of the project at this point. This would create a well rounded capacitor tester without the need for expensive lab equipment.
+
+The schematic to build this project is included as schematic1.jpg and schematic2.jpg, however resistor values and part numbers are omitted at this time. The Arduino source code is included as capsketch.ino and builds with Arduino 1.8.5.
